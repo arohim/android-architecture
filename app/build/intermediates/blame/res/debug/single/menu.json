@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/build/intermediates/res/merged/debug/menu/menu_cost_item.xml",
+        "source": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/src/main/res/menu/menu_cost_item.xml"
+    },
+    {
+        "merged": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/build/intermediates/res/merged/debug/menu/menu_add_cost.xml",
+        "source": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/src/main/res/menu/menu_add_cost.xml"
+    },
+    {
+        "merged": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/src/main/res/menu/menu_main.xml"
+    }
+]

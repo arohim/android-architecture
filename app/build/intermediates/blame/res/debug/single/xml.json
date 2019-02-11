@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/abdulrohim.s/Documents/Android/android-clean-sample-app/app/src/main/res/xml/syncadapter.xml"
+    }
+]
